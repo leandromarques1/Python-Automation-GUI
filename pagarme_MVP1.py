@@ -42,7 +42,7 @@ pyautogui.press("enter")    #apertar "ENTER"
 time.sleep(tempo_pausa)
 
 #Ir em RECEBEDORES
-pyautogui.click(67,401, clicks=1)
+pyautogui.click(82,404, clicks=1)
 
 #Digitar “fm securitizadora” na caixa de busca
 pyautogui.click(905,230, clicks=1)
