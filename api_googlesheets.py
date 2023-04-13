@@ -1,3 +1,6 @@
+# Video da Esxplicação:
+# https://www.youtube.com/watch?v=l7pL_Y3fw-o&t=2698s
+
 #Habilitar API do Google Shhets na Conta
 
 #passo 1: entrar no link: https://console.cloud.google.com/
